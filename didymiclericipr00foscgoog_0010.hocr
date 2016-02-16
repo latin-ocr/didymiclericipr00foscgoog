@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./didymiclericipr00foscgoog_0010.png"; bbox 0 0 3562 5364; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 62 1950 1334 2111">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 62 1950 1334 2111">
+     <span class='ocr_line' id='line_1_1' title="bbox 62 1950 1334 2111; baseline 0.009 -45"><span class='ocrx_word' id='word_1_1' title='bbox 62 2013 92 2043; x_wconf 93' lang='lat'><strong>··</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 160 1973 166 1987; x_wconf 83' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_3' title='bbox 230 2006 392 2072; x_wconf 79' lang='lat' dir='ltr'>fflJJUs</span> <span class='ocrx_word' id='word_1_4' title='bbox 412 2004 611 2069; x_wconf 78' lang='lat' dir='ltr'>LIBELLI</span> <span class='ocrx_word' id='word_1_5' title='bbox 633 1950 837 2071; x_wconf 58' lang='lat' dir='ltr'>nupstx</span> <span class='ocrx_word' id='word_1_6' title='bbox 861 1999 1013 2068; x_wconf 74' lang='lat' dir='ltr'><strong>FACTA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1038 2005 1124 2111; x_wconf 67' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1142 2005 1334 2096; x_wconf 63' lang='lat' dir='ltr'><strong>ymmo,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 231 2158 1526 2313">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 231 2158 1526 2313">
+     <span class='ocr_line' id='line_1_2' title="bbox 231 2158 1526 2313; baseline -0.002 -31"><span class='ocrx_word' id='word_1_9' title='bbox 231 2211 446 2304; x_wconf 79' lang='lat' dir='ltr'>QUARUM</span> <span class='ocrx_word' id='word_1_10' title='bbox 474 2208 574 2281; x_wconf 76' lang='lat' dir='ltr'><strong>UNA</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 595 2211 844 2291; x_wconf 72' lang='lat' dir='ltr'><strong>ExEMPLls</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 868 2158 1331 2313; x_wconf 65' lang='lat' dir='ltr'>x11.ALTERAxc1I.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1523 2232 1526 2239; x_wconf 96' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1786 5364">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1786 5364">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1786 5364; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1786 5364; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
